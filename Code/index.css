@@ -1,0 +1,36 @@
+
+
+.maintitle{
+    font-family: 'Rubik', sans-serif;
+    padding-left: 44%;
+    text-decoration: none;
+    font-weight:900;
+    font-size:1.5em;
+    color: black;
+}
+
+.textsizee{
+    font-size: large;
+}
+
+.divpage{
+    background-color: rgba(71, 26, 26, 0.616);
+   padding-bottom: 40px;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.imagecok{
+    height: 50px;
+}
+
+body{
+    background-color: rgba(255, 192, 203, 0.438);
+}
+
+.divpaddingtop{
+    margin-top: 2%;
+}
+.divpaddingtopimg{
+    margin-top: 5%;
+}

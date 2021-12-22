@@ -34,3 +34,14 @@ body{
 .divpaddingtopimg{
     margin-top: 5%;
 }
+.impressum{
+    background-image: url("http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/5e51f391003d8cf.png");
+    height: 1000px;
+}
+.impressumpage{
+    margin-top: 5%;
+    margin-left: 9%;
+    margin-right: 9%;
+    background-color: beige;
+    height: 25%;
+}
